@@ -35,6 +35,6 @@ Git & GitHub (Version Control)
 🔧 Optimize the ML model through hyperparameter tuning to improve accuracy. 📊 Compare different classifiers (Logistic Regression, XGBoost, etc.) for performance evaluation. 📡 Develop a dashboard using Streamlit or Dash to visualize real-time insights (stretch goal 🚀).
 
 ## 📬 Contact & Collaboration
-I welcome feedback, contributions, and collaboration! Feel free to reach out via: 🔗 [GitHub]((https://github.com/SchroedingersCodes)| 📩 [Email](schroedingerscat000001@gmail.com)
+I welcome feedback, contributions, and collaboration! Feel free to reach out via: 🔗 [GitHub](https://github.com/SchroedingersCodes)| 📩 [Email](schroedingerscat000001@gmail.com)
 
 > “Data fuels innovation, and this project is the engine.” 🚀
